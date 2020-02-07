@@ -49,11 +49,11 @@ header h1 {
 }
 
 /*
-** repetative style - DELETED
+** extra unnecessary tags were removed
 */
-/* .header h1 .seo {
+.seo {
     color: #d9dcd6;
-} */
+}
 
 /*
 ** style for the nav tag inside the tag with the class name "header"
