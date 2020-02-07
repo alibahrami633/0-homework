@@ -1,7 +1,7 @@
 ## 0-homework
 Homework Week 01 by Ali Bahrami -> ali.bahrami633@yahoo.com
 
-## HTML CSS Git: Code Refactor
+## HTML CSS Git: Code Refactor - What Has Been Done.
 
 ```
 The written code in both index.html and style.css were cleaned. 
